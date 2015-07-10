@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689=
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/CPLUS_INCLUDE_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/CPLUS_INCLUDE_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/CPLUS_INCLUDE_PATH/value=/usr/include/xenomai/\:/usr/include/c++/4.4.3
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/PATH/value=usr/lib/xeonmai/\:/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1616610689/appendContributed=true
